@@ -46,7 +46,6 @@ topics. Note that some articles contain *excessive* amounts of information.
 
 
 #####Answers
-<sup>
 1. It is simpler to support a single computer, than many thousand computers.
    It is easier to create a virtual computer than it is to pull a server off
    a shelf and plug it in. It is *much* simpler to install an operating 
@@ -66,4 +65,3 @@ topics. Note that some articles contain *excessive* amounts of information.
    others to give input on the issue. RFCs also maintain a record of many
    of the ideas surrounding the Internet, and will be referenced many times
    throughout these lessons.
-</sup>
