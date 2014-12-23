@@ -1,6 +1,6 @@
 ```
 Lesson:     1
-Topic:      **Virtualization and Virtual Box**
+Topic:      Virtualization and Virtual Box
 Type:       Lab
 Time:       2 hours
 Difficulty: Moderate
@@ -66,12 +66,10 @@ enough time before starting the install process.
    Why not a fancy GUI?
 
 #####Answers
-<sup>
 1. Yes. Go to `Networking`, and remove the virtual adaptor
 2. Yes, if the host computer has more than one CPU core.
 3. No. The virtual machine is limited to the hardware of the host computer.
 4. Because it is simpler, faster, and easier to make a text-based install. 
-</sup>
 
 
 

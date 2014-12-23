@@ -1,6 +1,6 @@
 ```
 Lesson:     1
-Topic:      **Virtualization and Virtual Box**
+Topic:      Virtualization and Virtual Box
 Type:       Reading
 Time:       1 hour
 Difficulty: Minimal
