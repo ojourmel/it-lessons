@@ -26,7 +26,7 @@ Additionally, there are specific resources for [creating new virtual machines](h
       has been created. Right click the machine name, and select `Settings`.
       Under `Storage`, there is a check box for `Host I/O Caching`. Ensure this
       checkbox is checked.
-* Download Debian ([Download Link](http://cdimage.debian.org/debian-cd/7.7.0/i386/iso-cd/debian-7.7.0-i386-netinst.iso)
+* Download Debian ([Download Link](http://cdimage.debian.org/debian-cd/7.7.0/i386/iso-cd/debian-7.7.0-i386-netinst.iso))
 * "Insert" the Debian `ISO` into the virtual machines CD-ROM
    * Go to machine settings, and then `Storage`. From there, select the IDE
       device, and tick `Bootable Mediam` checkbox. Select the small folder 
