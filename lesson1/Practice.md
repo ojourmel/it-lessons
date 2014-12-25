@@ -31,7 +31,7 @@ Additionally, there are specific resources for [creating new virtual machines](h
    * Go to machine settings, and then `Storage`. From there, select the IDE
       device, and tick `Bootable Mediam` checkbox. Select the small folder
       icon, to select the `ISO` that should be used.
-      [Storage](http://cdn4.groovypost.com/wp-content/uploads/2011/09/image54.png)
+      ![Storage](http://cdn4.groovypost.com/wp-content/uploads/2011/09/image54.png)
 * Install Debian on the virtual machine
    * Select a graphical install
    * `Hostname` refers to the computer name
