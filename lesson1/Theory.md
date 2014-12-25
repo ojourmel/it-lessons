@@ -11,8 +11,8 @@ Virtualization is the emulation of hardware with software. While it can take
 on many forms, computer virtualization can be used to run complete,
 [sandboxed](http://en.wikipedia.org/wiki/Sandbox_%28computer_security%29) environment.
 
-For the purpose of this lesson, we will be looking at [VirtualBox](https://www.virtualbox.org/), 
-which is a popular open source virtualization software. VirtualBox can be 
+For the purpose of this lesson, we will be looking at [VirtualBox](https://www.virtualbox.org/),
+which is a popular open source virtualization software. VirtualBox can be
 installed on Windows, Mac, and Linux computers, and can be used to create
 an environment for most popular operating systems.
 
@@ -21,11 +21,13 @@ provide a playground for the labs, as well as, provide a safe environment
 where mistakes can be made, without jeopardizing the real computer.
 
 This lesson, we will also cover [RFCs](http://en.wikipedia.org/wiki/Request_for_Comments),
-and some 
+and some basic ideas behind how things on the Internet are decided.
 
 
 Before preceding to the lab, read, and familiarize yourself with the following
 topics. Note that some articles contain *excessive* amounts of information.
+Simply skim them, and be able to convert the acronym, GUI to the term,
+Graphical User Interface.
    * [Virtualization](http://en.wikipedia.org/wiki/Virtualization)
    * [NAT](http://en.wikipedia.org/wiki/Network_address_translation)
    * [RFC](http://en.wikipedia.org/wiki/Request_for_Comments)
@@ -33,7 +35,7 @@ topics. Note that some articles contain *excessive* amounts of information.
 
 
 ####Pre-lab questions
-1. A common example of virtualization is [Virtual Private Servers](http://en.wikipedia.org/wiki/Virtual_private_server).
+1. A common example of virtualization is a [Virtual Private Server](http://en.wikipedia.org/wiki/Virtual_private_server).
    These servers are used for many things on the Internet. Why might it
    be beneficial for companies to own a single, super computer, and then
    visualizer servers, instead of simply running many "real" servers?
@@ -48,8 +50,8 @@ topics. Note that some articles contain *excessive* amounts of information.
 #####Answers
 1. It is simpler to support a single computer, than many thousand computers.
    It is easier to create a virtual computer than it is to pull a server off
-   a shelf and plug it in. It is *much* simpler to install an operating 
-   system on a virtual machine, as a template machine can be used. If a 
+   a shelf and plug it in. It is *much* simpler to install an operating
+   system on a virtual machine, as a template machine can be used. If a
    virtual server is not being used, the resources normally allocated for that
    virtual machine can be used elsewhere.
 
@@ -59,9 +61,12 @@ topics. Note that some articles contain *excessive* amounts of information.
    the larger network.
 
 3. Because the Internet was developed, and created using many different peoples
-   ideas and expertize, it is important for those people to communicate their 
+   ideas and expertize, it is important for those people to communicate their
    ideas. One of the simplest forms of group communication is a mailing list.
    RFCs are a way of presenting a topic, often on a mailing list, and allowing
    others to give input on the issue. RFCs also maintain a record of many
    of the ideas surrounding the Internet, and will be referenced many times
    throughout these lessons.
+
+   RFCs are a common way of defining a protocol, and the specifications of that
+   protocol (like TCP, and what a TCP packet should look like).
