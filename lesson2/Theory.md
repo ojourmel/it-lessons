@@ -95,7 +95,8 @@ are familiar with these ideas:
 
 
 #####Answers
-1. (From the [Linux File Structure](http://tldp.org/LDP/intro-linux/html/sect_03_01.html): >>Most important system configuration files are in /etc, this directory contains data similar to those in the Control Panel in Windows
+1. From the [Linux File Structure](http://tldp.org/LDP/intro-linux/html/sect_03_01.html):
+>>Most important system configuration files are in /etc, this directory contains data similar to those in the Control Panel in Windows
 
 2. One updater means a single thing to update the whole system. Inner conflict are easily avoided, since the package manager can track the dependencies for each program
    If the package manager is corrupted, it may be difficult to fix, as it is responsible for download/updating software.
