@@ -86,7 +86,7 @@ Our exploration of `apt` and the other `apt-` tools will continue in the Practic
 portion of this lesson. Before we can start that however, double check that you
 are familiar with these ideas:
 
-1. What does the `/etc` folder responsible for in the [Linux File Structure](http://tldp.org/LDP/intro-linux/html/sect_03_01.html)?
+1. What does the `/etc` folder contain in the [Linux File Structure](http://tldp.org/LDP/intro-linux/html/sect_03_01.html)?
 
 2. Why is it a better idea for a computer system to be managed by a single software downloader/updater?
    How could this idea go wrong?
